@@ -1,5 +1,9 @@
 # NEON HARVEST
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/crypdon-mf/neon-harvest/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/crypdon-mf/neon-harvest/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 An original arcade game for the make.fun **best-game-01** bounty ($1,000).
 
 ## The game
@@ -69,3 +73,8 @@ importing it, which broke the HUD (and the game-over screen) at draw
 time. The headless self-test caught the play loop; the error trap caught
 the render fault; both are verified fixed (13/13 checks, 4 screenshots
 re-captured and inspected).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d5a50dzy&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+
